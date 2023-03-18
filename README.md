@@ -1,1 +1,3 @@
-# meteos
+# Meteos App
+
+Minimalistic weather app
